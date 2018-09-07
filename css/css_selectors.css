@@ -1,0 +1,27 @@
+/* Type selector */
+h2 {
+    color: red;
+}
+
+/* Class selector */
+.class-selector{
+  color: orange;
+}
+
+/* Class selector */
+#id-selector{
+  color: blue;
+}
+
+/* Multiple Class selector */
+.class-selector-1{
+  color: purple;
+}
+
+.class-selector-2{
+  font-style: italic;
+}
+
+.class-selector-1.class-selector-2{
+  opacity: 0.5;
+}
