@@ -9,7 +9,7 @@ ssh -p 2222 alexvijayraj@192.254.250.10
 
 ### Navigate to working directory
 ```
-cd staging.alexvijayraj.com/
+cd mastertest.alexvijayraj.com/
 ```
 
 ### Update repository from git
