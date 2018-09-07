@@ -25,3 +25,19 @@ h2 {
 .class-selector-1.class-selector-2{
   opacity: 0.5;
 }
+
+/* Descendent selector - selects 'a' tag inside 'p' tag*/
+p a {
+  color: brown;
+}
+
+.descendent-selector-1 .descendent-selector-2 {
+  font-style: italic;
+}
+
+/* Combining selectors */
+.combining-selector-1, .combining-selector-2{
+  background: lightblue;
+  padding: 5px;
+  color: white;
+}
