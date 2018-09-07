@@ -1,4 +1,4 @@
-# Alex Vijay Raj's portfolio v1.0.0
+# Master Frontend Test Project
 
 ## Frequently used terminal commands
 
